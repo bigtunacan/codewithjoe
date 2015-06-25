@@ -4,3 +4,10 @@
 
 
 This is the website where my live streaming class schedules and other related announcements will be placed. 
+
+Schedule of upcoming Streams
+----------------------------
+
+| Day        | Date            | Time           | Description                                    |
+|------------|:---------------:|:--------------:|:----------------------------------------------:|
+| Friday     | June 26         | 9PM CST        | Introduction to Ruby, Sinatra, and Git         |
