@@ -8,9 +8,9 @@ This is the website where my live streaming class schedules and other related an
 Schedule of upcoming Streams
 ----------------------------
 
-| Day        | Date            | Time           | Description                                    |
-|------------|:---------------:|:--------------:|:----------------------------------------------:|
-| Friday     | June 26         | 9PM CST        | Introduction to Ruby, Sinatra, and Git         |
+| Day        | Date            | Time           | Description                                    | URL                       |
+|------------|:---------------:|:--------------:|:----------------------------------------------:|:-------------------------:|
+| Friday     | June 26         | 9PM CST        | Introduction to Ruby, Sinatra, and Git         | https://twitch.tv/alienanteater    |
 
 
 Before the stream, what do you need to do?
