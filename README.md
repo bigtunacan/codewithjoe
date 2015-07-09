@@ -12,6 +12,7 @@ Schedule of upcoming Streams
 |------------|:---------------:|:--------------:|:----------------------------------------------:|:-------------------------:|
 | Friday     | June 26         | 9PM CST        | Introduction to Ruby, Sinatra, and Git         | https://twitch.tv/alienanteater    |
 | Tuesday     | June 30         | 10AM CST       | Turn based game with JavaScript, Phaser.io, Sinatra | https://twitch.tv/alienanteater    |
+| Tuesday     | June 30         | 10PM CST       | Turn based game with JavaScript, Phaser.io, Sinatra (Part 2) | https://twitch.tv/alienanteater    |
 
 
 Before the stream, what do you need to do?
